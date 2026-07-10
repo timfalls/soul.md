@@ -8,7 +8,7 @@ In DevRel, we spend a lot of energy polishing our `README.md`. The talks we give
 
 But a `README.md` is fragile if the internal logic running underneath it is broken. 
 
-That's why this repository is here for you. It's a dedicated space to configure your **`SOUL.md`**—the root system configuration file that dictates *how* and *why* you execute your skills, especially amidst the chaotic environment of the current AI wave (and the world in general, really).
+That's why this repository is here for you. It's a dedicated space to configure your **`SOUL.md`**—the root system configuration file that dictates *how* and *why* you execute your skills, especially amidst the chaotic environment of the current AI wave (and the world in general, really). *(Note: While we are borrowing the terminology of AI agents and system architecture, this is strictly a geeky metaphor. Humans are not programmable systems, but using this familiar syntax can help us protect and sustain our very human energy).*
 
 ## What's in this Repository?
 
