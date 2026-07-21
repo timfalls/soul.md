@@ -20,18 +20,18 @@
 
 * **Quality over Speed:** I will not ship content or endorse a tool (including AI) that I haven't vetted ethically or practically.
 * **Authenticity:** I will acknowledge when I am learning in public, rather than feigning absolute expertise.
-* **[Add your own standard]**
+* **[Add your own standards]**
 
 ---
 
 ## 3. DEPENDENCIES
-*System requirements. The "medicine spirit" that must be installed and running daily to prevent a system crash (burnout).*
+*System requirements. The resources and conditions that must be adequately present to keep you operating smoothly and preventing a system crash (eg, burnout).*
 
 * `nature.pkg` - Minimum 30 minutes outside, away from screens.
 * `sleep.env` - 8 hours of offline downtime to reboot the system.
 * `movement.exe` - Physical activation to clear caching build-up.
-* `connection.lib` - Meaningful time with people who don't care about my `README.md`.
-* **[Add your own dependency]**
+* `connection.lib` - Meaningful in-person time with people.
+* **[Add your own dependencies]**
 
 ---
 
@@ -41,7 +41,7 @@
 * **Offline Hours:** 6:00 PM to 8:00 AM are read-only. No Slack, no emails, no community triage.
 * **Ethical Tooling:** I will not promote tools or AI platforms that fundamentally contradict my `CORE_VALUES`.
 * **Energy Limits:** I will not accept speaking gigs that require back-to-back cross-country travel without a buffer day.
-* **[Add your own read-only boundary]**
+* **[Add your own read-only boundaries]**
 
 ---
 
@@ -61,5 +61,3 @@
   * *Handler:* [Add your fallback protocol]
 
 ---
-
-> *"The inner work I encouraged us toward then is the same inner work I'm encouraging us toward now. Today is just a more advanced iteration."* > — DevRelCon 2026
