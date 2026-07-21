@@ -1,4 +1,4 @@
-# soul.md: The Root Configuration File for DevRel
+# SOUL.md: The Root Configuration File for DevRel
 
 **Welcome from DevRelCon 2026!** If you're reading this, we probably just shared a morning heartbeat drum together.
 
