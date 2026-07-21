@@ -2,6 +2,21 @@
 
 **Welcome from DevRelCon 2026!** If you're reading this, we probably just shared a morning heartbeat drum together.
 
+## Quickstart
+
+```bash
+# 1. Fork the repository
+gh repo fork timfalls/soul.md
+
+# 2. Navigate to your local copy
+cd soul.md
+
+# 3. Open SOUL.md to configure your root operating system
+```
+
+> **System Architecture:**  
+> While `SKILLS.md` defines what you do (writing, speaking, building), `SOUL.md` configures the root operating system required to deploy those skills safely and sustainably without burnout.
+
 ## The Public Product vs. The Internal Logic
 
 In DevRel, we spend a lot of energy polishing our `README.md`. The talks we give, the content and code we ship, the communities we build, and the brand we present to the world are our public, generally available product.
