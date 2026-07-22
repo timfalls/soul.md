@@ -24,6 +24,7 @@ cd soul.md
 2. **`.env.example`**: A space to acknowledge your current external context (e.g., `INDUSTRY_MODE="ai_wave"`). You can't control the environment variables, but you can configure how your system responds to them.
 3. **`ACKNOWLEDGEMENTS.md`**: A dedicated file for honoring teachers, ancestors, lineage, and land—grounding the work in gratitude before execution.
 4. **`LICENSE`**: Open-source MIT License, inviting you to fork, adapt, and share your own version freely.
+5. **`SOUL-TF.md`**: A live, populated implementation showing how Tim configured his root operating system for this season of life.
 
 ## How to Use This Template
 
