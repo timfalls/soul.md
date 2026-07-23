@@ -1,63 +1,84 @@
 # SOUL-TF.md -- a SOUL.md file configured by and for Tim Falls.
 
-> **Overview:** This is the root system configuration file for my personal operating system. 
-> My `SOUL.md` dictates *how* and *why* I carry out the `SKILLS.md` that are required for my work.
-> I return to this file to update it regularly, as seasons in my life and career shift and the context around me changes.
+> **Overview:** 
+>A `SOUL.md` is a root configuration file for a personal operating system. It serves as guidepost for navigating life and work - when I'm not sure about a decision, referring back to this gives me direction. It's a reflection of *how* and *why* I bring my work to life. 
+>This version was configured by me, Tim Falls, July 2026.
+> I return to this file regularly to update it, as seasons in my life and career shift and as the context around me changes.
+
+I've made my SOUL.md file (or at least this version) public, to offer an example/reference point for others who wish to adopt this practice for themselves.
 
 ---
 
 ## 1. CORE_VALUES
-*The foundational principles of your system codebase. What do you stand for?*
+*My foundational principles and beliefs. The ground I stand on.*
 
-* 
-* [ ] **[Value 2, e.g., Community First]** - *Brief description.*
-* [ ] **[Value 3, e.g., Sustainable Pace]** - *Brief description.*
+* [x] **Authenticity** - *Operating with true alignment between internal truth and external presentation, rather than performing for approval.*
+* [x] **Generosity** - *Offering time, wisdom, and resource freely without tracking transactional balance sheets or attachment to an expectation of return.*
+* [x] **Curiosity/Open-mindedness** - *Approaching the unknown with open inquiry and wonder rather than default judgment or defensive certainty.*
+* [x] **Humility** - *Recognizing limits and variances in knowledge, perspective, and experience. Welcoming growth, candid and constructive feedback, and course-correction.*
+* [x] **Empathy** - *Seeking to deeply feel and understand another's experience.*
+* [x] **Self-awareness** - *Maintaining conscious attention on my motivations, biases, and how my presence impacts those around me.*
+* [x] **Emotional Intelligence** - *Navigating complex interpersonal dynamics and internal state with regulation, care, and discernment.*
+* [x] **Transparency & Vulnerability** - *Sharing process, struggle, and uncertainty openly rather than curating an illusion of perfection.*
+* [x] **Reciprocity** - *Nurturing mutually supportive relationships - finding balance in the exchange of support between two people over time.*
+* [x] **Sustainability** - *Considering and intending to ensure sustainability for people and for planet and for multiple generations to come.*
 
 ---
 
 ## 2. STANDARDS_OF_EXECUTION
 *How you hold yourself to your core values in production.*
 
-* **Quality over Speed:** I will not ship content or endorse a tool (including AI) that I haven't vetted ethically or practically.
-* **Authenticity:** I will acknowledge when I am learning in public, rather than feigning absolute expertise.
-* **[Add your own standards]**
+* **Ancestral Accountability:** When no one else is watching, I remind myself that *I* am watching, and I ask: *"What did my ancestors pray I'd do?"*
+* **Conscious Consumption & Influence:** Before making or influencing a financial decision, I inquire about where those resources are actually flowing to ensure that flow aligns with my values.
+* **Universal Impact Scale:** When evaluating a decision, I ask: *"If everyone acted this way, would it move the world toward peace or toward chaos?"*
+This trio covers lineage (Ancestral Accountability), resource flow (Conscious Consumption),
 
 ---
 
 ## 3. DEPENDENCIES
-*System requirements. The resources and conditions that must be adequately present to keep you operating smoothly and preventing a system crash (eg, burnout).*
+*System requirements. The resources and conditions that must be adequately present to keep you operating smoothly and prevent a crash (e.g., burnout).*
 
-* `nature.pkg` - Minimum 30 minutes outside, away from screens.
-* `sleep.env` - 8 hours of offline downtime to reboot the system.
-* `movement.exe` - Physical activation to clear caching build-up.
-* `connection.lib` - Meaningful in-person time with people.
-* **[Add your own dependencies]**
+### Hardware (Body)
+* `sleep.env` - 6–8 hours of offline downtime; keep cumulative sleep debt below 8 hours; bedtime and wakeup max ±2 hours of baseline.
+* `movement.exe` - Minimum of 1 walk per day (at least 1 mile); target 3 strength training sessions per week.
+* `nutrition.config` - Balanced diet that honors dietary intolerances; prioritize plants over meat (minimal beef); maximize locally grown food; prepare home-cooked meals 5+ days per week.
+
+### Network (Community & Social Infrastructure)
+* `connection.lib` - Meaningful in-person time with people; deeper than surface-level conversations; relationships of mutual trust, respect, and appreciation. Small groups over large crowds.
+* `solitude.env` - Intentional time alone to unplug from social infrastructure and recharge energy after dense community engagement.
+* `idle_time.sys` - Scheduled unstructured downtime with no obligations on the calendar.
+* `offline_mode.sh` - Step away from devices, media, news, etc. to fully disconnect from passive consumption and excessive sensory stimulation.
+
+### Kernel (Mind & Soul)
+* `garbage_collection.log` - Meditation, Yoga Nidra, and breathwork to cultivate presence, regulate the nervous system, provide anxiety relief, and release stress and mental clutter.
+* `energetic_hygiene.sh` - Smoke and fresh plant sweeps to clear external static and restore energy balance.
+* `prayer.sys` - Daily prayer to connect with the divine, ancestors, and spirit.
 
 ---
 
 ## 4. READ_ONLY (Boundaries)
-*Permissions and variables that external forces (companies, communities, trends) cannot overwrite.*
+*Permissions and variables that external forces (companies, communities, coworkers, trends) cannot overwrite.*
 
-* **Offline Hours:** 6:00 PM to 8:00 AM are read-only. No Slack, no emails, no community triage.
+* **Working Hours & Availability:** No expectation of responsiveness outside of self-defined working hours; nights and weekends are generally off-limits.
+* **Human Centricity:** I will not prioritize corporate profit or business outcomes over human well-being, dignity, or safety.
 * **Ethical Tooling:** I will not promote tools or AI platforms that fundamentally contradict my `CORE_VALUES`.
-* **Energy Limits:** I will not accept speaking gigs that require back-to-back cross-country travel without a buffer day.
-* **[Add your own read-only boundaries]**
+* **Travel Limits:** Travel is capped to conserve my energy and limit direct emissions and fossil fuel use, always incorporating buffer days for rest and recovery.
+* **Unpaid Labor & Speculative Work:** Generosity is a choice, not an obligation. I do not perform uncompensated speculative work, extensive interview assignments, or unpaid advisory labor on demand.
 
 ---
 
 ## 5. ERROR_HANDLING
-*Fallback protocols for when the system encounters friction, toxicity, or overload.*
+*Fallback protocols and procedures for when the system encounters high stress, overload, or malicious acts.*
+
+* **`ERR_CAPACITY_EXCEEDED`**
+  * *Signal:* Irrational task paralysis, heavy procrastination, or low motivation to get out of bed in the morning.
+  * *Handler:* Take a 24–48 hour pause on non-essential tasks. Recommit to primary `DEPENDENCIES` (sleep, nature, offline time, movement).
+
+* **`ERR_IMPOSTER_PHENOMENON`**
+  * *Signal:* Questioning my expertise in the face of rapid industry shifts or external doubt.
+  * *Handler:* Stop comparing my journey to others. Remind myself that I earned my place here through experience, reconnect with past validating feedback from peers, and re-anchor in `CORE_VALUES`.
 
 * **`ERR_TOXIC_ENGAGEMENT`**
-  * *Trigger:* Abusive or bad-faith actors in a community space.
-  * *Handler:* Do not engage emotionally. Execute Read-Only boundary protocol. Escalate to moderation guidelines and step away.
-* **`ERR_CAPACITY_EXCEEDED`**
-  * *Trigger:* Token anxiety, overwhelmed by AI hype, or feeling the edge of burnout.
-  * *Handler:* Automatically decline new requests for 14 days. Increase `DEPENDENCIES` (sleep, nature, offline time).
-* **`ERR_IMPOSTER_SYNDROME`**
-  * *Trigger:* Feeling unqualified in the face of rapid industry shifts.
-  * *Handler:* Remind the system that DevRel is about guiding others through the unknown, not omniscience. Return to `CORE_VALUES`.
-* **[Add your own error trigger]**
-  * *Handler:* [Add your fallback protocol]
+  * *Signal:* Encountering abusive or bad-faith actors in a community space.
+  * *Handler:* Do not engage emotionally. Execute `READ_ONLY` boundary protocol. Escalate to moderation guidelines and step away.
 
----
