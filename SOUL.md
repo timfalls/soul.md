@@ -58,5 +58,5 @@ Journal prompt: **_"Where do I often say 'yes' out of habit or obligation, and w
 Journal prompt: **_"When I am overwhelmed, triggered, or operating from fear, what are my predictable 'glitch' modes — and what is the gentlest, most constructive fallback protocol I can pre-program to be aware that I'm in an error state and nurture myself back to balance?"_**
 
 * **`ERR_[STATE_NAME]`**
-  * *Trigger:* What triggers this state?
+  * *Signal:* What triggers this state?
   * *Handler:* Protocol to recognize, regulate, and return to equilibrium.
